@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    height:30px;
+    justify-content: space-evenly;
+    padding: 20px;
+    border:2px solid grey;
+}
+
+.navbar img{
+    width: auto;
+    height: 90%;
+}

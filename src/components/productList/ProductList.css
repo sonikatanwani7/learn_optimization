@@ -1,0 +1,36 @@
+.productCard{
+    width:300px;
+    height:auto;
+}
+
+.productCard img{
+    width:100%;
+    height:auto
+}
+
+
+
+.productList{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+.productTitle{
+    font-size: 12px;
+    line-height: 1em;
+}
+
+.filterContainer{
+    width:20%;
+}
+
+.sortContainer{
+    width:100%;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+}

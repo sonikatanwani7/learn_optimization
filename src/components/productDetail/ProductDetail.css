@@ -1,0 +1,28 @@
+.product{
+    display: flex;
+    flex-direction: row;
+    align-items: top;
+    justify-content: left;
+    margin-top:20px
+}
+
+.productThumbnailImage{
+    width:30%;
+    height:auto;
+}
+
+.productThumbnailImage img{
+    width:200px;
+    height:auto;
+}
+
+
+.productDescription{
+    text-align: left;
+    width: 50%;
+}
+
+.addToCart{
+    width:auto;
+    height: 50px;
+}

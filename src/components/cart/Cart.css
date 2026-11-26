@@ -1,0 +1,8 @@
+.productRow{
+    display: flex;
+}
+
+.removeFromCart{
+    width:auto;
+    height: 50px;
+}

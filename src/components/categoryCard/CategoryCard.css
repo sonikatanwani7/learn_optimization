@@ -1,0 +1,26 @@
+.card{
+    width:300px;
+    height:auto;
+}
+
+.card img{
+    width:100%;
+    height:auto
+}
+
+
+.card img{
+    width:100%;
+    height:auto
+}
+
+.categoryCardList{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.cardTitle{
+    font-size: 12px;
+    line-height: 1em;
+}

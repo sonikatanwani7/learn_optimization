@@ -1,0 +1,21 @@
+.sort{
+    width:100%;
+    height:auto;
+    border: 2px solid grey;
+}
+
+.sortOptions{
+    display: flex;
+    flex-direction: row;
+}
+
+.sortOptions div{
+    padding: 20px;
+    margin:20px;
+    cursor: pointer;
+}
+
+.active {
+    font-weight: bold;
+    color: blue;
+  }

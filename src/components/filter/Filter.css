@@ -1,0 +1,11 @@
+.filter{
+    width:100%;
+    height:auto;
+    min-height: 100vh;
+    border: 2px solid grey;
+}
+
+.filterList{
+    list-style-type: none;
+    text-align: left;
+}
